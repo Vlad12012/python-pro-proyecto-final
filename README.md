@@ -3,7 +3,7 @@ App web que trabaja contra el cambio climatico
 
 
 ## Tegnologías usadas
--pyton
--flask
--sqlAlquemy
--HTLM/CSS
+ -pyton
+ -flask
+ -sqlAlquemy
+ -HTLM/CSS
